@@ -1,2 +1,2 @@
 web gunicorn app:app
-clock: python clock.py
+web: python lb6_server.py
